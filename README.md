@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="coding" width="400" src="[https://github.com/rudrabarad/Gifs](https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47qfdt9sv6ijqwwrsnh5krk2nt7ojg9br50zo7uw23&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 
 - 🌱 I’m currently learning **Web Development**
