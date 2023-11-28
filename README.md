@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="[https://github.com/rudrabarad/Gifs](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)">
 
 
 - 🌱 I’m currently learning **Web Development**
