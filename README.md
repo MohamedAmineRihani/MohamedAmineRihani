@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
-
+<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 - 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **Angular and Node.js**
-
 - 📫 How to reach me **medaminerihani18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/med-amine-rihani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/med-amine-rihani/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mohamedaminerihani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedaminerihani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucu6pe1oyx-yun4e8i3snorw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucu6pe1oyx-yun4e8i3snorw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
