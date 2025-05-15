@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
-<h3 align="center">Full Stack Developer from Tunisia 🇹🇳</h3>
+<h3 align="center">Software Developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Software Development & AI**
-- 💬 Ask me about **Java, Spring Boot, React**
+- 🌱 I’m currently learning **Software Development**
 - 📫 Reach me at: **medaminerihani18@gmail.com**
 
 ---
