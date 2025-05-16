@@ -9,16 +9,6 @@
 
 ---
 
-<h3>📫 Let's Connect</h3>
-<p align="left">
-  <a href="mailto:medaminerihani18@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Send me an email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-aminerihani/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="Visit my LinkedIn" />
-  </a>
-</p>
-
 <h3>🚀 Languages & Frameworks & Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,go,spring,react,redux,nodejs,sass,tailwind,mysql,postgres,docker,kubernetes,git,linux,postman,figma,jenkins,nginx" />
